@@ -1,2 +1,2 @@
 # nn_experiment
-place experiment code；Only for preservation
+place experiment code；Only for save
